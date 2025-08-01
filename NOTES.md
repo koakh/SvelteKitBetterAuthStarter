@@ -32,3 +32,8 @@ bunx @better-auth/cli migrate
 
 
 https://github.com/igalklebanov/kysely-surrealdb
+
+
+
+https://www.better-auth.com/docs/examples/svelte-kit
+https://github.com/better-auth/better-auth/tree/main/examples/svelte-kit-example
