@@ -1,0 +1,3 @@
+Todo:
+  ☐ login page if logged redirect to home or dashboard
+  ☐ use authClient.signIn and create user in db

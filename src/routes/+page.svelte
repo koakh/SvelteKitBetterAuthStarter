@@ -1,2 +1,9 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script>
+	import { goto } from '$app/navigation';
+
+	const gotoLogin = async () => {
+		await goto('/login');
+	};
+</script>
+
+<button class="button" on:click={gotoLogin}> Go to Login Page </button>
