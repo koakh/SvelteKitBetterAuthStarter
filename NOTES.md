@@ -1,6 +1,7 @@
 # NOTES
 
 - [NOTES](#notes)
+  - [Stack Used](#stack-used)
   - [Claude Links](#claude-links)
   - [Bootstrap SvelteKit App](#bootstrap-sveltekit-app)
   - [Svelte CLI](#svelte-cli)
@@ -18,6 +19,16 @@
   - [Add Skeleton UI](#add-skeleton-ui)
   - [SurrealDb Kysely Dialet](#surrealdb-kysely-dialet)
 
+## Stack Used
+
+- [X] Svelte
+- [X] SvelteKit
+- [X] BetterAuth
+- [X] TailWind Css
+- [-] Skeleton UI
+- [-] SurrealDb
+- [-] tRPC
+- [-] SuperForms
 
 ## Claude Links
 
