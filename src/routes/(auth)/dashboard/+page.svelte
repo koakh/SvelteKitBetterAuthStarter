@@ -33,4 +33,10 @@
 	{/if}
 </div>
 
-<button class="button" on:click={onSignOut}> SignOut </button>
+<div class="space-y-4">
+	<div class="flex gap-4">
+		<button type="button" class="btn preset-filled-primary-500" on:click={onSignOut}
+			>SignOut</button
+		>
+	</div>
+</div>

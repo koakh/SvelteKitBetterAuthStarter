@@ -15,6 +15,7 @@
       - [Better Auth Callback URL](#better-auth-callback-url)
         - [GitHub](#github)
       - [Tying it all together](#tying-it-all-together)
+  - [Add Skeleton UI](#add-skeleton-ui)
   - [SurrealDb Kysely Dialet](#surrealdb-kysely-dialet)
 
 
@@ -189,10 +190,17 @@ Now, you should be able to achieve the following:
 - After completing the flow, be redirected to the `/dashboard` route
 - See the user’s email on the page
 
+## Add Skeleton UI
+
+- [SvelteKit - Skeleton](https://www.skeleton.dev/docs/get-started/installation/sveltekit)
+
+```shell
+$ bun add -D @skeletonlabs/skeleton @skeletonlabs/skeleton-svelte
+```
+
 ## SurrealDb Kysely Dialet
 
 - [GitHub - igalklebanov/kysely-surrealdb: Kysely dialects, plugins and other goodies for SurrealDB](https://github.com/igalklebanov/kysely-surrealdb)
-
 
 
 https://www.better-auth.com/docs/examples/svelte-kit

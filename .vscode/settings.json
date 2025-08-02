@@ -3,6 +3,7 @@
     "direnv",
     "envrc",
     "nixshell",
-    "Stylesheet"
+    "Stylesheet",
+    "sveltekit"
   ]
 }

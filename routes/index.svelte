@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { authClient } from "$lib/client";
+  // import { authClient } from "$lib/client";
   const session = authClient.useSession();
 </script>
 <div>
